@@ -41,12 +41,12 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[hongsi66]&show_icons=true&theme=radical&hide_border=true" alt="Hyejin's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[hongsi66]&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hongsi66&show_icons=true&theme=radical&hide_border=true" alt="Hyejin's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongsi66&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
 </p>
 
 ---
 
 ### 📫 Contact
-- **Email:** [본인 이메일 주소]
-- **Blog:** [티스토리/벨로그 등 운영 중인 블로그 링크]
+- **Email:** honghhj66@gmail.com
+- **Blog:** https://honghhj66.tistory.com/
